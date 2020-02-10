@@ -1,3 +1,14 @@
+D03:
+----------
+
+Milestone:
+1. Participated in the Git challenge and I am now on exercise 5 of 23. Will focus on finishing this by tomorrow.
+
+https://github.com/anvillasoto/bertelsmann-30-days#D03
+
+&#35;30DaysofUdacity
+
+
 D02:
 ----------
 
