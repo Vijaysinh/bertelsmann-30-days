@@ -1,3 +1,15 @@
+D05:
+----------
+
+Milestone:
+1. Participated in the Git challenge and I am now on exercise 11 of 23. This is really tough for a beginner like me but I am taking the challenge.
+2. Reviewed the whole Git lesson and still on the first half. Will continue tomorrow.
+
+https://github.com/anvillasoto/bertelsmann-30-days#D05
+
+&#35;30DaysofUdacity
+
+
 D04:
 ----------
 
