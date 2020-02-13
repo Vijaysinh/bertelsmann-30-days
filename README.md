@@ -1,7 +1,19 @@
+D06:
+----------
+
+Milestones:
+1. Finished the 14th exercise of the #testyourgit challenge. 
+2. Reviewed the whole Git lesson and still on the first half. The combination of revisiting git lessons plus the #testyourgit challenge is really a great way to learn git. 
+
+https://github.com/anvillasoto/bertelsmann-30-days#D06
+
+&#35;30DaysofUdacity
+
+
 D05:
 ----------
 
-Milestone:
+Milestones:
 1. Participated in the Git challenge and I am now on exercise 11 of 23. This is really tough for a beginner like me but I am taking the challenge.
 2. Reviewed the whole Git lesson and still on the first half. Will continue tomorrow.
 
@@ -13,7 +25,7 @@ https://github.com/anvillasoto/bertelsmann-30-days#D05
 D04:
 ----------
 
-Milestone:
+Milestones:
 1. Participated in the Git challenge and I am now on exercise 10 of 23. 
 2. Finished the whole Git lesson from the challenge course. It was amazing. Will review the material tomorrow.
 
@@ -24,7 +36,7 @@ https://github.com/anvillasoto/bertelsmann-30-days#D04
 D03:
 ----------
 
-Milestone:
+Milestones:
 1. Participated in the Git challenge and I am now on exercise 5 of 23. Will focus on finishing this by tomorrow.
 
 https://github.com/anvillasoto/bertelsmann-30-days#D03
@@ -35,7 +47,7 @@ https://github.com/anvillasoto/bertelsmann-30-days#D03
 D02:
 ----------
 
-Milestone:
+Milestones:
 1. Participated in the Git challenge and I am now on exercise 4 of 23. This is really fun. Will continue tomorrow.
 
 https://github.com/anvillasoto/bertelsmann-30-days#D02
