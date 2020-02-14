@@ -4,7 +4,7 @@ D07:
 Milestone:
 1. Focused on finishing the #testyourgit challenge. I am now on exercise 18.  
 
-https://github.com/anvillasoto/bertelsmann-30-days#D06
+https://github.com/anvillasoto/bertelsmann-30-days#D07
 
 &#35;30DaysofUdacity
 
