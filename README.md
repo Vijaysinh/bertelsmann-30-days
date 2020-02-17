@@ -1,3 +1,15 @@
+D09:
+----------
+
+Milestones:
+1. Continued with cloud fundamentals course. 
+2. Explored the AWS Textract for my final project. 
+
+https://github.com/anvillasoto/bertelsmann-30-days#D07
+
+&#35;30DaysofUdacity
+
+
 D08:
 ----------
 
