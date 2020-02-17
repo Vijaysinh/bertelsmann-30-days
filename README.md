@@ -5,7 +5,7 @@ Milestones:
 1. Continued with cloud fundamentals course. 
 2. Explored the AWS Textract for my final project. 
 
-https://github.com/anvillasoto/bertelsmann-30-days#D07
+https://github.com/anvillasoto/bertelsmann-30-days#D09
 
 &#35;30DaysofUdacity
 
@@ -17,7 +17,7 @@ Milestones:
 1. Attended a Zoom webinar about the recent AAAI conference in New York. It is all about figuring out the questions of Artificial General Intelligence and enabling AI systems to think and reason instead of our usual one-problem-one-solution method. 
 2. Started with cloud fundamentals course. 
 
-https://github.com/anvillasoto/bertelsmann-30-days#D07
+https://github.com/anvillasoto/bertelsmann-30-days#D08
 
 &#35;30DaysofUdacity
 
