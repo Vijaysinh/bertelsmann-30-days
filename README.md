@@ -5,7 +5,7 @@ Milestones:
 1. Ok. I had problems working with NGINX server for my simple cloud project. I am fixing on the gateway timeout issue immediately after setting up SSL.
 2. Continued with the cloud fundamentals course. This is getting really exciting. 
 
-https://github.com/anvillasoto/bertelsmann-30-days#D09
+https://github.com/anvillasoto/bertelsmann-30-days#D10
 
 &#35;30DaysofUdacity
 
