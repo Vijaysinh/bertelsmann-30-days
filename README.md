@@ -1,3 +1,16 @@
+D11:
+----------
+
+Milestones:
+1. Now, I am exploring text detection pipeline for my personal project. Unlike Google Cloud Vision, it is not straightforward as you need to poll if Textract has finished analyzing the document. Will solve this later.
+2. Continued with the cloud fundamentals course. 
+3. Finished challenge 19-20 of the #testyourgit challenge. So far so good!
+
+https://github.com/anvillasoto/bertelsmann-30-days#D11
+
+&#35;30DaysofUdacity
+
+
 D10:
 ----------
 
