@@ -1,3 +1,15 @@
+D12:
+----------
+
+Milestones:
+1. Finished working on text detection API using Textract. I guess polling for success is the way to go.
+2. Continued with the cloud fundamentals course. 
+
+https://github.com/anvillasoto/bertelsmann-30-days#D12
+
+&#35;30DaysofUdacity
+
+
 D11:
 ----------
 
