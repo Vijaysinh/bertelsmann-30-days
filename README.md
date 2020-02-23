@@ -1,3 +1,18 @@
+D13:
+----------
+
+Milestones:
+1. Ok. So I finished working on my Lunar Segmentation project using OpenVINO. After hours of tinkering, I finally figured out how to make the Model Optimizer work. Thiis is not much but this is my output. 
+
+![Day 13](images/day13.png)
+
+2. In between my model training, I continue on the cloud fundamentals course. This is more of a perusal on my end. I will make sure everything will be in place very soon.
+
+https://github.com/anvillasoto/bertelsmann-30-days#D12
+
+&#35;30DaysofUdacity
+
+
 D12:
 ----------
 
