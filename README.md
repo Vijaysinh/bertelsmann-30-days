@@ -1,3 +1,15 @@
+D14:
+----------
+
+Milestones:
+1. I am currently preparing for the documentation for our LunarX project. Mind you, the pipelined approch for pulling this off using what we learned so far in the Cloud DevOps using AWS Lambda is tricky. But at least we keep our models and our results intact in the process.
+2. Still stuck on what I previously learned in the cloud fundamentals section of the course. Will continue it tomorrow since it is holiday in the Philippines and I would have ample time continuing to where I left.
+
+https://github.com/anvillasoto/bertelsmann-30-days#D14
+
+&#35;30DaysofUdacity
+
+
 D13:
 ----------
 
@@ -8,7 +20,7 @@ Milestones:
 
 2. In between my model training, I continue on the cloud fundamentals course. This is more of a perusal on my end. I will make sure everything will be in place very soon.
 
-https://github.com/anvillasoto/bertelsmann-30-days#D12
+https://github.com/anvillasoto/bertelsmann-30-days#D13
 
 &#35;30DaysofUdacity
 
