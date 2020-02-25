@@ -1,3 +1,15 @@
+D15:
+----------
+
+Milestones:
+1. Hurrah! The documentation for our Lunar Segmentation project has been finished. You can look at the result [here](https://github.com/anvillasoto/lunar-segmentation-openvino). 
+2. I am on the process on deploying this on Node server with MQTT enabled on a live server. Probably Elastic Beanstalk is way to go instead of provisioning EC2 instance. I do not need that level of control for the meantime.
+
+https://github.com/anvillasoto/bertelsmann-30-days#D15
+
+&#35;30DaysofUdacity
+
+
 D14:
 ----------
 
