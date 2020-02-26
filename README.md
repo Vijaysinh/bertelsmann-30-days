@@ -5,7 +5,7 @@ Milestones:
 1. This is my 16th day and I am excited to start learning ASP.NET Core with Angular 8 MVC. This is my go-to framework moving forward.
 2. Continued on my ride home several cloud topics. Will finish the course very soon.
 
-https://github.com/anvillasoto/bertelsmann-30-days#D15
+https://github.com/anvillasoto/bertelsmann-30-days#D16
 
 &#35;30DaysofUdacity
 
