@@ -1,3 +1,16 @@
+D17:
+----------
+
+Milestones:
+1. Here is a cool thing that happened in my office. I tried another solution for Optical Character Recognition for our internal tooling. It turns out that ABBYY is one of the leading companies that can handle ORC accurately. I tried to consume it and tried on several non-English files and it worked. 
+2. Continued on re-learning ASP.NET Core. I am on authentication right now.
+3. Run through some videos of the course. I really need to expedite my progress regarding this.
+
+https://github.com/anvillasoto/bertelsmann-30-days#D17
+
+&#35;30DaysofUdacity
+
+
 D16:
 ----------
 
