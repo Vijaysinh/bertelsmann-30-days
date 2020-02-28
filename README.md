@@ -1,3 +1,16 @@
+D18:
+----------
+
+Milestones:
+1. Finished deploying the ABBYY API on our platform supporting 79 languages for optical character recognition. 
+2. Continued on re-learning ASP.NET Core. 
+3. Run through some videos of the course. 
+
+https://github.com/anvillasoto/bertelsmann-30-days#D18
+
+&#35;30DaysofUdacity
+
+
 D17:
 ----------
 
