@@ -1,3 +1,14 @@
+D19:
+----------
+
+Milestone:
+1. I am on lesson 22: Servers and Security Groups now since the end is coming. I tried to really grasp the ideas behind server management given the fact that I use Linode and DigitalOcean instances and they have pretty basic identity management schemes if not absent. Gladly, my organization lets me tinker our AWS account for whatever training purpose I have now. So this privilege really makes my learning realistic. I am enjoying this course so much. 
+
+https://github.com/anvillasoto/bertelsmann-30-days#D19
+
+&#35;30DaysofUdacity
+
+
 D18:
 ----------
 
