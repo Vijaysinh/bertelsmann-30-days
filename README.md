@@ -1,3 +1,14 @@
+D20:
+----------
+
+Milestone:
+1. Still on lesson 20: Servers and Security Groups. We have four days left so it is now a crunch time. Hopefully I can finish the course on time. On my road to the last module. Best of luck to all of us
+
+https://github.com/anvillasoto/bertelsmann-30-days#D20
+
+&#35;30DaysofUdacity
+
+
 D19:
 ----------
 
