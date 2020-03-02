@@ -1,8 +1,22 @@
+D21:
+----------
+
+Milestones:
+1. Hurrah! I just finished lesson 22: Servers and Security Groups. That one was a toughy. Will continue on the final lesson tomorrow.
+2. Participated in the 4th QUIZ of Challenge Quizlack. I am rank 20 as of this writing. 
+
+![day 21](./images/day21.jpg)
+
+https://github.com/anvillasoto/bertelsmann-30-days#D21
+
+&#35;30DaysofUdacity
+
+
 D20:
 ----------
 
 Milestone:
-1. Still on lesson 20: Servers and Security Groups. We have four days left so it is now a crunch time. Hopefully I can finish the course on time. On my road to the last module. Best of luck to all of us
+1. Still on lesson 22: Servers and Security Groups. We have four days left so it is now a crunch time. Hopefully I can finish the course on time. On my road to the last module. Best of luck to all of us
 
 https://github.com/anvillasoto/bertelsmann-30-days#D20
 
