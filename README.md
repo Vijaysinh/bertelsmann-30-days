@@ -9,9 +9,99 @@ To serve as a record of my milestones, I listed here several labs that I made fr
 
 ### Lab 1. Launch an EC2 Instance
 
+<img src="./labs/01_cloud_fundamentals/lab_01_01_launch_an_EC2_instance.png" alt="lab_01_01_launch_an_EC2_instance"/>
+
+<img src="./labs/01_cloud_fundamentals/lab_01_02_launch_an_EC2_instance.png" alt="lab_01_02_launch_an_EC2_instance"/>
+
+
 ### Lab 2. Create and Execute a Lambda
 
-### Lab 3. 
+<img src="./labs/01_cloud_fundamentals/lab_02_01_create_and_execute_a_lambda.png" alt="lab_02_01_create_and_execute_a_lambda"/>
+
+
+### Lab 3. Deploy App to Beanstalk
+
+<img src="./labs/01_cloud_fundamentals/lab_03_01_deploying_app_to_beanstalk.png" alt="lab_03_01_deploying_app_to_beanstalk"/>
+
+<img src="./labs/01_cloud_fundamentals/lab_03_02_deploying_app_to_beanstalk.png" alt="lab_03_02_deploying_app_to_beanstalk"/>
+
+
+### Lab 4. DynamoDB
+
+<img src="./labs/01_cloud_fundamentals/lab_04_01_DynamoDB.png" alt="lab_04_01_DynamoDB"/>
+
+<img src="./labs/01_cloud_fundamentals/lab_04_02_DynamoDB.png" alt="lab_04_02_DynamoDB"/>
+
+
+### Lab 5. RDS
+
+<img src="./labs/01_cloud_fundamentals/lab_05_01_RDS.png" alt="lab_05_01_RDS"/>
+
+
+### Lab 6. S3 and CloudFront
+
+<img src="./labs/01_cloud_fundamentals/lab_06_01_S3_and_CloudFront.png" alt="lab_06_01_S3_and_CloudFront"/>
+
+<img src="./labs/01_cloud_fundamentals/lab_06_02_S3_and_CloudFront.png" alt="lab_06_02_S3_and_CloudFront"/>
+
+
+### Lab 7. IAM
+
+<img src="./labs/01_cloud_fundamentals/lab_07_01_IAM.png" alt="lab_07_01_IAM"/>
+
+<img src="./labs/01_cloud_fundamentals/lab_07_02_IAM.png" alt="lab_07_02_IAM"/>
+
+
+### Lab 8. EC2 Auto Scaling
+
+<img src="./labs/01_cloud_fundamentals/lab_08_01_EC2_auto_scaling.png" alt="lab_08_01_EC2_auto_scaling"/>
+
+<img src="./labs/01_cloud_fundamentals/lab_08_02_EC2_auto_scaling.png" alt="lab_08_02_EC2_auto_scaling"/>
+
+<img src="./labs/01_cloud_fundamentals/lab_08_03_EC2_auto_scaling.png" alt="lab_08_03_EC2_auto_scaling"/>
+
+
+### Lab 9. Amazon SNS
+
+<img src="./labs/01_cloud_fundamentals/lab_09_01_SNS.png" alt="lab_09_01_SNS"/>
+
+<img src="./labs/01_cloud_fundamentals/lab_09_02_SNS.png" alt="lab_09_02_SNS"/>
+
+<img src="./labs/01_cloud_fundamentals/lab_09_03_SNS.png" alt="lab_09_03_SNS"/>
+
+<img src="./labs/01_cloud_fundamentals/lab_09_04_SNS.png" alt="lab_09_04_SNS"/>
+
+
+### Lab 10. CloudWatch
+
+<img src="./labs/01_cloud_fundamentals/lab_10_01_CloudWatch.png" alt="lab_10_01_CloudWatch"/>
+
+<img src="./labs/01_cloud_fundamentals/lab_10_02_CloudWatch.png" alt="lab_10_02_CloudWatch.png"/>
+
+
+### Lab 11. CloudFormation
+
+<img src="./labs/01_cloud_fundamentals/lab_11_01_CloudFormation.png" alt="lab_11_01_CloudFormation"/>
+
+<img src="./labs/01_cloud_fundamentals/lab_11_02_CloudFormation.png" alt="lab_11_02_CloudFormation"/>
+
+<img src="./labs/01_cloud_fundamentals/lab_11_03_CloudFormation.png" alt="lab_11_03_CloudFormation"/>
+
+<img src="./labs/01_cloud_fundamentals/lab_11_04_CloudFormation.png" alt="lab_11_04_CloudFormation"/>
+
+
+## Infrastructure as Code
+
+### Creating an Infrastructure Diagram
+
+<img src="./labs/02_infrastructure_as_code/lab_02_01_infrastructure_diagrams.PNG" alt="lab_02_01_infrastructure_diagrams"/>
+
+
+
+
+## Daily Milestones:
+
+This documents my daily milestones learning the course and other resources related to Bertelsmann Cloud Challenge Course.
 
 
 D22:
