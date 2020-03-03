@@ -1,6 +1,17 @@
-Course Summary:
+Labs that I Made:
+----------
 
+With about a month of learning, I explored AWS and its services to my recently verified account from Amazon as well as cloud infrastructure design, software defined networking and Infrastructure as Code using CloudFormation by AWS with scripting language YAML right within my local terminal.
 
+To serve as a record of my milestones, I listed here several labs that I made from AWS as well as infrastructure diagram that I followed through using LucidCharts.
+
+## Cloud Fundamentals
+
+### Lab 1. Launch an EC2 Instance
+
+### Lab 2. Create and Execute a Lambda
+
+### Lab 3. 
 
 
 D22:
