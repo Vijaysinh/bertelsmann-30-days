@@ -1,3 +1,21 @@
+Course Summary:
+
+
+
+
+D22:
+----------
+
+1. Finally, after about a month of learning, I finished the whole course 100%. Thank you so much Bertelsmann and Udacity for bringing this course to life. I learned a lot in terms of collaboration using Git and cloud computing using AWS.
+
+![day 22](./images/day22.png)
+
+
+https://github.com/anvillasoto/bertelsmann-30-days#D22
+
+&#35;30DaysofUdacity
+
+
 D21:
 ----------
 
