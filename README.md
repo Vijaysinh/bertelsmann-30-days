@@ -103,6 +103,20 @@ To serve as a record of my milestones, I listed here several labs that I made fr
 
 This documents my daily milestones learning the course and other resources related to Bertelsmann Cloud Challenge Course.
 
+D23:
+----------
+
+1. I did it! I finally finished the #testyourgit challenge. The last exercise was really challenging but I did it. I learned a great deal about git bisect. Really amazing initiative.
+
+![day 23](./images/day23_02.png)
+
+![day 23](./images/day23_03.png)
+
+https://github.com/anvillasoto/bertelsmann-30-days#D22
+
+&#35;30DaysofUdacity
+
+
 
 D22:
 ----------
