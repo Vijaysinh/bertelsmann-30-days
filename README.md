@@ -103,6 +103,18 @@ To serve as a record of my milestones, I listed here several labs that I made fr
 
 This documents my daily milestones learning the course and other resources related to Bertelsmann Cloud Challenge Course.
 
+D24:
+----------
+
+Milestones:
+
+1. Created a Labs that I Made section of the document to remember all of the things that I simulated while learning the course. You can check it here: https://github.com/anvillasoto/bertelsmann-30-days#labs-that-i-made
+2. Run through the course again to make sure that I did not miss out several questions.
+
+https://github.com/anvillasoto/bertelsmann-30-days#D24
+
+&#35;30DaysofUdacity
+
 D23:
 ----------
 
@@ -112,7 +124,7 @@ D23:
 
 ![day 23](./images/day23_03.png)
 
-https://github.com/anvillasoto/bertelsmann-30-days#D22
+https://github.com/anvillasoto/bertelsmann-30-days#D23
 
 &#35;30DaysofUdacity
 
